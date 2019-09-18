@@ -41,4 +41,6 @@ public enum Operator {
   public String toString() {
     return token;
   }
+
+  // FIXME Add operate method w/ switch (later version will use @Override)
 }
